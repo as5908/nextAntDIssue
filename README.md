@@ -6,7 +6,7 @@ This example shows how to use Next.js along with [Ant Design of React](http://an
 
 Deploy the example using [Vercel](https://vercel.com):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/zeit/next.js/tree/canary/examples/with-ant-design-less)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/as5908/nextAntDIssue)
 
 ## How to use
 
